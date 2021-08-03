@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "BigNoodleTitling";
+  src: url("../fonts/BigNoodleTitling/BigNoodleTitling.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/BigNoodleTitling/BigNoodleTitling.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/BigNoodleTitling/BigNoodleTitling.otf") format("opentype"), /* Open Type Font */
+    url("../fonts/BigNoodleTitling/BigNoodleTitling.svg") format("svg"), /* Legacy iOS */
+    url("../fonts/BigNoodleTitling/BigNoodleTitling.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/BigNoodleTitling/BigNoodleTitling.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/BigNoodleTitling/BigNoodleTitling.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
